@@ -1,4 +1,4 @@
-# Image-Feature-Detection-using-ORB-and-Image-Segmentation-using-K-means-Clustering-with-OpenCV
+# Image Feature Detection using ORB and Image Segmentation using K-means Clustering with OpenCV_Brain Image
 
 ![image](https://github.com/TITHI-KHAN/Image-Feature-Detection-using-ORB-and-Image-Segmentation-using-K-means-Clustering-with-OpenCV/assets/65033964/6621940f-976a-4fca-bfd2-e30ead8c88a3)
 
